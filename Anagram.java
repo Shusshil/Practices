@@ -41,3 +41,4 @@ public class Anagram {
 	     return true;
 	}
 }
+// console.log
